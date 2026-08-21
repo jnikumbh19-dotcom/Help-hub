@@ -1,0 +1,6 @@
+{
+  "name": "HELP HUB",
+  "description": "Location-based emergency assistance platform for instant medical, breakdown, police, and specialized help.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
